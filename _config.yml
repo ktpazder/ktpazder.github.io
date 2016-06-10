@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Karl Pazdernik
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Karl Pazdernik
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "I'm a Statistician who loves a challenge."
+  email: karl.pazdernik@gmail.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ktpazder
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
